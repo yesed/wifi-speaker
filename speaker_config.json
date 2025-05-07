@@ -1,0 +1,8 @@
+{
+    "first_boot": true,
+    "device_name": "My Smart Speaker",
+    "wifi_ssid": null,
+    "wifi_password": null,
+    "oled_enabled": true,
+    "led_enabled": true
+}
